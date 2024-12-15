@@ -1,3 +1,4 @@
+#define TEST_MESSAGE "Added by 202011995 안수경\n"
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
